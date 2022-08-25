@@ -1,2 +1,2 @@
-# boilerplate project
-game e-commerce project based on what I've learned with Udemy.
+# boilerplate-project
+Gaming e-commerce project based on what I've learned with Udemy.
