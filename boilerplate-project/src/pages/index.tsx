@@ -4,6 +4,8 @@ type Props = {
   title: string
 }
 
+const bla = 'var'
+
 export default function Home({ title = 'boilerplate' }: Props) {
   return (
     <div className="container">
