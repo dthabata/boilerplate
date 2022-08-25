@@ -1,4 +1,4 @@
-import { render, screen } from '@testing-library/react'
+import { render, screen } from '@testing-library/react' // TODO: find out what is the correct way of rendering for React 18
 
 import Main from '.'
 
